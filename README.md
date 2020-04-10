@@ -1,0 +1,1 @@
+# Bayer-filter-for-interpolation-algorithms
