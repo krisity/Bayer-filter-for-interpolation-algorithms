@@ -33,4 +33,4 @@ Main task:
 - The user can zoom on part of the image:
 ![](Screenshots/7_Zoom.jpg)
 - Zoomed part of the original image (left) and interpolated image (right). Interpolation errors can be seen clearly.
-![](Screenshots/7_Zoom_2.jpg)
+![](Screenshots/7_Zoom_3.JPG)
