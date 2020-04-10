@@ -26,11 +26,11 @@ Main task:
 ![](Screenshots/4.JPG)
 - MSE/PSNR calculation appear on the right side after each interpolation on the image:
 ![](Screenshots/4.1.JPG)                                                                      
-- The user can click on the "CLEAR" button on the right to remove the interpolated image. After that the user can perform another interpolation on the same image that was previously uploaded
-![](Screenshots/5-clear_button)
+- The user can click on the "CLEAR" button on the right to remove the interpolated image. After that the user can perform another interpolation on the same image that was previously uploaded:
+![](Screenshots/5-clear_button.JPG)
 - Dialog window that appears after the user clicks on the "SAVE" button:
 ![](Screenshots/6.JPG)
 - The user can zoom on part of the image:
-![](Screenshots/7_Zoom.JPG)
+![](Screenshots/7_Zoom.jpg)
 - Zoomed part of the original image (left) and interpolated image (right). Interpolation errors can be seen clearly.
-![](Screenshots/7_Zoom_2.JPG)
+![](Screenshots/7_Zoom_2.jpg)
